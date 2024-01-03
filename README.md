@@ -165,7 +165,6 @@ v0.8.0 🚀🚗🚚🏃‍ LaMaInpainting
 ### Models
 [Download CLIPSeg](https://huggingface.co/CIDAS/clipseg-rd64-refined/tree/main), move to : models/clipseg
 
-[Download lama](https://github.com/enesmsahin/simple-lama-inpainting/releases/download/v0.1.0/big-lama.pt), move to : models/lama
 
 <!-- ### Workflow
 [Workflow](./workflow.md) -->
